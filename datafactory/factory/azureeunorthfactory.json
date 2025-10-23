@@ -1,0 +1,9 @@
+{
+    "name":"azureuaenorthfactory",
+    "location":"uaenorth",
+    "identity":{
+        "type":"SystemAssigned",
+        "principalId":"a1725ff3-4d2b-4c3e-8f1e-123456789abc",
+        "tenantId":"b1234567-89ab-4cde-f012-3456789abcdef"
+    }
+}
